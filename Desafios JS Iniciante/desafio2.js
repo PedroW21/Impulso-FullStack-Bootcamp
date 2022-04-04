@@ -11,11 +11,11 @@
 
  //implemente sua solução nos espaços em branco
  
- while (n >=       && n <=        ) {
+ while (n >=     1  && n <=   1000    ) {
    var c = parseFloat(gets());
    
- var dias =     ;
-   while ( c >       && c <=        ) {
+ var dias =   0  ;
+   while ( c > 1      && c <=    1000    ) { // pq maior que 1, sendo que no enunciado pode ser menos que 1 (tipo 0.1)
      c = c / 2.0;
      dias++;
    }
