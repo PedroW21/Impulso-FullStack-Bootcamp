@@ -1,13 +1,9 @@
-let T = [5, "Batmain", "Coderinga", "Pistoleiro", "Charadiz", "Outra Coisa"];
+let T = parseInt(gets());
 
-for (let i = 0; i <= T[0]; i++) {
+let viloes = gets();
+
+for (let i = 0; i < T; i++) {
     
-
-    if(T[i].length > 1){
-        console.log("Y");
-    }
-
+    viloes.length > 1 && typeof viloes === "string" ? console.log("Y") : null;
+  
 }
-
-
-//T.forEach((elemento) => elemento.length > 1 ? console.log("Y") : null); // 1a tentativa
