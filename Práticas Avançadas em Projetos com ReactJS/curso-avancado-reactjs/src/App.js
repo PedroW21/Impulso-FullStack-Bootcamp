@@ -1,11 +1,9 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-class Example extends Component {
-    render () {
+function Example() {
        return (
            <div>OIe</div>
        )
-    }
 }
 
 export default Example;
