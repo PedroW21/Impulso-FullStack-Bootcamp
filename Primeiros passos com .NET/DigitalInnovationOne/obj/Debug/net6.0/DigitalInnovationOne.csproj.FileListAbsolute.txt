@@ -1,0 +1,15 @@
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/DigitalInnovationOne/bin/Debug/net6.0/DigitalInnovationOne
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/DigitalInnovationOne/bin/Debug/net6.0/DigitalInnovationOne.deps.json
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/DigitalInnovationOne/bin/Debug/net6.0/DigitalInnovationOne.runtimeconfig.json
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/DigitalInnovationOne/bin/Debug/net6.0/DigitalInnovationOne.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/DigitalInnovationOne/bin/Debug/net6.0/DigitalInnovationOne.pdb
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/DigitalInnovationOne/obj/Debug/net6.0/DigitalInnovationOne.csproj.AssemblyReference.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/DigitalInnovationOne/obj/Debug/net6.0/DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/DigitalInnovationOne/obj/Debug/net6.0/DigitalInnovationOne.AssemblyInfoInputs.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/DigitalInnovationOne/obj/Debug/net6.0/DigitalInnovationOne.AssemblyInfo.cs
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/DigitalInnovationOne/obj/Debug/net6.0/DigitalInnovationOne.csproj.CoreCompileInputs.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/DigitalInnovationOne/obj/Debug/net6.0/DigitalInnovationOne.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/DigitalInnovationOne/obj/Debug/net6.0/refint/DigitalInnovationOne.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/DigitalInnovationOne/obj/Debug/net6.0/DigitalInnovationOne.pdb
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/DigitalInnovationOne/obj/Debug/net6.0/DigitalInnovationOne.genruntimeconfig.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/DigitalInnovationOne/obj/Debug/net6.0/ref/DigitalInnovationOne.dll
