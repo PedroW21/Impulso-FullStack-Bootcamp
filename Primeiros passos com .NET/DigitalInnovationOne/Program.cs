@@ -1,2 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+
+int numeroVezes = 5;
+
+for(int i =0; i < numeroVezes; i++) {
+    Console.WriteLine("Bem Vindo ao curso de .NET!!"); // caso fosse so write ele não pularia linha automaticamente.
+}
