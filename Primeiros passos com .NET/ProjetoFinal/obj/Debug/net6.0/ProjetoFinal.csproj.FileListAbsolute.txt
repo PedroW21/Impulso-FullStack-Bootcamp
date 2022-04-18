@@ -1,0 +1,5 @@
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.csproj.AssemblyReference.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.AssemblyInfoInputs.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.AssemblyInfo.cs
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Primeiros passos com .NET/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.csproj.CoreCompileInputs.cache
