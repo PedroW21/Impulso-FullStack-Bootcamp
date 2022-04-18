@@ -1,2 +1,2 @@
-# Impulso-FullStack-Bootcamp
+# Bootcamp FullStack da Impulso
  Esse repósitorio terá todos os conhecimentos que adquiri durante o bootcamp
