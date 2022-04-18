@@ -1,0 +1,15 @@
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/bin/Debug/net6.0/Demos
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/bin/Debug/net6.0/Demos.deps.json
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/bin/Debug/net6.0/Demos.runtimeconfig.json
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/bin/Debug/net6.0/Demos.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/bin/Debug/net6.0/Demos.pdb
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/obj/Debug/net6.0/Demos.csproj.AssemblyReference.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/obj/Debug/net6.0/Demos.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/obj/Debug/net6.0/Demos.AssemblyInfoInputs.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/obj/Debug/net6.0/Demos.AssemblyInfo.cs
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/obj/Debug/net6.0/Demos.csproj.CoreCompileInputs.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/obj/Debug/net6.0/Demos.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/obj/Debug/net6.0/refint/Demos.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/obj/Debug/net6.0/Demos.pdb
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/obj/Debug/net6.0/Demos.genruntimeconfig.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/obj/Debug/net6.0/ref/Demos.dll
