@@ -2,6 +2,14 @@
 
 public class Program
 {
+    static void Demo5()
+    {
+        var pares = new int[] { 0, 2, 4, 6, 8 }; // poderia ser int[] pares = new int[x,x,x,x]
+
+        MudarParaImpar(pares);
+
+        WriteLine($"Os impares {string.Join(",", pares)}");
+    }
     static void Demo4()
     {
         string nome = "Pedro";
@@ -72,6 +80,15 @@ public class Program
     {
         nome = nomeNovo;
     }
+
+    static void MudarParaImpar(int[] pares)
+    {
+        for (int i = 0; i < pares.Length; i++)
+        {
+            pares[i] = pares[i] + 1;
+        }
+    }
+
     public static void Main()
     {
 
