@@ -2,7 +2,25 @@
 
 public class Program
 {
-    static void demon2()
+    static void Demo3()
+    {
+        StructPessoa p1 = new StructPessoa()
+        {
+            Documento = "1234",
+            Idade = 30,
+            Nome = "Pedro"
+        };
+
+        var p2 = p1;
+
+        TrocarNome(p1, "Pierre");
+
+        WriteLine($@"
+        O nome de p1 é {p1.Nome}
+        O nome de p2 é {p2.Nome}
+        ");
+    }
+    static void Demo2()
     {
         Pessoa p1 = new Pessoa();
         p1.Nome = "Pedro";
@@ -19,7 +37,7 @@ public class Program
         O nome de p2 é: {p2.Nome}
         ");
     }
-    static void demon1()
+    static void Demo1()
     {
         int a = 2;
 
@@ -36,27 +54,15 @@ public class Program
     {
         p1.Nome = nomeNovo;
     }
-    
-    static void TrocarNome(StructPessoa p1, string nomeNovo) {
+
+    static void TrocarNome(StructPessoa p1, string nomeNovo)
+    {
         p1.Nome = nomeNovo;
     }
-    
+
     public static void Main()
     {
-        StructPessoa p1 = new StructPessoa() {
-            Documento = "1234",
-            Idade = 30,
-            Nome = "Pedro"
-        };
 
-        var p2 = p1;
-
-        TrocarNome(p1, "Pierre");
-
-        WriteLine($@"
-        O nome de p1 é {p1.Nome}
-        O nome de p2 é {p2.Nome}
-        ");
 
     }
 }
