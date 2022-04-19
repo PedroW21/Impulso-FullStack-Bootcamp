@@ -60,8 +60,5 @@ class TrabalhandoComRef
         {
             WriteLine("Nome não encontrado :/");
         }
-
-
-
     }
 }
