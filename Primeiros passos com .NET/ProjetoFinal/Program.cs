@@ -1,7 +1,4 @@
 ﻿using System;
-
-namespace ProjetoFinal
-{
     class Program
     {
         static void Main(string[] args)
@@ -122,7 +119,5 @@ namespace ProjetoFinal
         }
 
     }
-
-}
 
 
