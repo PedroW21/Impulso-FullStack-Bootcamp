@@ -1,0 +1,15 @@
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo04/bin/Debug/net6.0/Modulo04
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo04/bin/Debug/net6.0/Modulo04.deps.json
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo04/bin/Debug/net6.0/Modulo04.runtimeconfig.json
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo04/bin/Debug/net6.0/Modulo04.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo04/bin/Debug/net6.0/Modulo04.pdb
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo04/obj/Debug/net6.0/Modulo04.csproj.AssemblyReference.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo04/obj/Debug/net6.0/Modulo04.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo04/obj/Debug/net6.0/Modulo04.AssemblyInfoInputs.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo04/obj/Debug/net6.0/Modulo04.AssemblyInfo.cs
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo04/obj/Debug/net6.0/Modulo04.csproj.CoreCompileInputs.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo04/obj/Debug/net6.0/Modulo04.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo04/obj/Debug/net6.0/refint/Modulo04.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo04/obj/Debug/net6.0/Modulo04.pdb
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo04/obj/Debug/net6.0/Modulo04.genruntimeconfig.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo04/obj/Debug/net6.0/ref/Modulo04.dll
