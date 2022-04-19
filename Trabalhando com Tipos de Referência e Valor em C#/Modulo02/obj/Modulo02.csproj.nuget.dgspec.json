@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Trabalhando com Ref/UtilizandoRef/UtilizandoRef.csproj": {}
+    "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo02/Modulo02.csproj": {}
   },
   "projects": {
-    "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Trabalhando com Ref/UtilizandoRef/UtilizandoRef.csproj": {
+    "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo02/Modulo02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Trabalhando com Ref/UtilizandoRef/UtilizandoRef.csproj",
-        "projectName": "UtilizandoRef",
-        "projectPath": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Trabalhando com Ref/UtilizandoRef/UtilizandoRef.csproj",
+        "projectUniqueName": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo02/Modulo02.csproj",
+        "projectName": "Modulo02",
+        "projectPath": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo02/Modulo02.csproj",
         "packagesPath": "/home/pedro/.nuget/packages/",
-        "outputPath": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Trabalhando com Ref/UtilizandoRef/obj/",
+        "outputPath": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo02/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/pedro/.nuget/NuGet/NuGet.Config"

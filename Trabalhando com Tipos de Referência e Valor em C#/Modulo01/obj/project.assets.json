@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Demos.csproj",
+      "projectUniqueName": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo01/Demos.csproj",
       "projectName": "Demos",
-      "projectPath": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Demos.csproj",
+      "projectPath": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo01/Demos.csproj",
       "packagesPath": "/home/pedro/.nuget/packages/",
-      "outputPath": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/obj/",
+      "outputPath": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pedro/.nuget/NuGet/NuGet.Config"

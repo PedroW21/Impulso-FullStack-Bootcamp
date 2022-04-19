@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ag4rCuvqheQY6mAe5pRyqiHCtGIJ5GKhlmbsEZTTgvTa9hSTFWBzqYdzsO7J99vgRt5NE23PzxCRjxZ8hneslQ==",
+  "dgSpecHash": "zogcSUJcjnedgktxq31AFJpUi69y10xwaiQK5u7znkLSF8Enz0epu1ILucx/xI7PF9stLPSV2qrx+iUl1KdDMQ==",
   "success": true,
-  "projectFilePath": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Demos.csproj",
+  "projectFilePath": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Tipos de Referência e Valor em C#/Modulo01/Demos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
