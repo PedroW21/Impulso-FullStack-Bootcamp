@@ -2,6 +2,14 @@
 
 public class Program
 {
+    static void Demo4()
+    {
+        string nome = "Pedro";
+
+        TrocarNome(nome, "Pierre");
+
+        WriteLine($"O nome novo é: {nome}");
+    }
     static void Demo3()
     {
         StructPessoa p1 = new StructPessoa()
@@ -60,9 +68,12 @@ public class Program
         p1.Nome = nomeNovo;
     }
 
+    static void TrocarNome(string nome, string nomeNovo)
+    {
+        nome = nomeNovo;
+    }
     public static void Main()
     {
-
 
     }
 }
