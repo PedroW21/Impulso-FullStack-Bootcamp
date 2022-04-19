@@ -126,18 +126,27 @@ public class Program
 
         return false;
     }
+       static bool EncontrarPessoa(List<StructPessoa> pessoas, StructPessoa pessoa)
+    {
+        foreach (var item in pessoas)
+        {
+            if (item.Equals(pessoa)) return true;
+        }
+
+        return false;
+    }
     public static void Main()
     {
-        List<Pessoa> pessoas = new List<Pessoa>() {
-            new Pessoa(){Nome = "Pedro"},
-            new Pessoa(){Nome = "Pierre"},
-            new Pessoa(){Nome = "San Peterson"},
-            new Pessoa(){Nome = "Pietro"},
+        List<StructPessoa> pessoas = new List<StructPessoa>() {
+            new StructPessoa(){Nome = "Pedro"},
+            new StructPessoa(){Nome = "Pierre"},
+            new StructPessoa(){Nome = "San Peterson"},
+            new StructPessoa(){Nome = "Pietro"},
         };
 
         WriteLine($"Digite a pessoa que gostaria de localizar: ");
         var nome = ReadLine();
-        var pessoa = new Pessoa(){Nome = nome};
+        var pessoa = new StructPessoa(){Nome = nome};
         var encontrado = EncontrarPessoa(pessoas, pessoa);
 
         if (encontrado)
