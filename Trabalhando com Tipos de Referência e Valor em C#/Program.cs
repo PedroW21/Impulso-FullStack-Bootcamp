@@ -26,8 +26,14 @@ public class Program
         p1.Idade = 19;
         p1.Documento = "1234";
 
-        TrocarNome(p1, "Pierre");
+        Pessoa p2 = p1.Clone();
 
-        WriteLine($"O Novo nome é: {p1.Nome}");
+        TrocarNome(p1, "Pierre");
+       
+        // o arroba aqui faz com que apareca essa formatação no console
+        WriteLine($@"
+        O nome de p1 é: {p1.Nome}
+        O nome de p2 é: {p2.Nome}
+        ");
     }
 }
