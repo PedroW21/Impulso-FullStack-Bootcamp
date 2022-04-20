@@ -4,10 +4,8 @@ class Program
 {
     static void Main()
     {
-        Crono hero = new Crono();
+        Crono hero = new Crono("Crono", 47, "Lightning");
 
-        hero.Name = "Crono";
-        hero.Level = 47;
-        hero.HeroType = "Lightning";
+      
     }
 }
