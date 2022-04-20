@@ -6,6 +6,6 @@ class Program
     {
         Crono hero = new Crono("Crono", 47, "Lightning");
 
-      
+        WriteLine(hero);
     }
 }
