@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using static System.Console;
+
+class Program
+{
+    static void Main()
+    {
+        Crono hero = new Crono();
+
+        hero.Name = "Crono";
+        hero.Level = 47;
+        hero.HeroType = "Lightning";
+    }
+}
