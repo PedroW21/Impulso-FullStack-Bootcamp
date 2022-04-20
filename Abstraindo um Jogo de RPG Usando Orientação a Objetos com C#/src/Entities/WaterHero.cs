@@ -10,4 +10,9 @@ public class WaterHero : Hero
     {
         return this.Name = "Atacou com magia de Água";
     }
+
+    public string Attack(int Bonus)
+    {
+        return this.Name = "Atacou com magia de Água com um bônus de: " + Bonus;
+    }
 }

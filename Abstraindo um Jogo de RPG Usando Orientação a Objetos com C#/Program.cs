@@ -10,5 +10,7 @@ class Program
 
         WriteLine(Crono.Attack());
         WriteLine(Marle.Attack());
+        WriteLine(Marle.Attack(3));
+
     }
 }
