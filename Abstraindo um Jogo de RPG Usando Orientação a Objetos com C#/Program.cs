@@ -4,8 +4,11 @@ class Program
 {
     static void Main()
     {
-        Crono hero = new Crono("Crono", 47, "Lightning");
+        Hero Crono = new Hero("Crono", 47, "Lightning");
 
-        WriteLine(hero);
+        WaterHero Marle = new WaterHero("Marle", 45, "Water");
+
+        WriteLine(Crono.Attack());
+        WriteLine(Marle.Attack());
     }
 }
