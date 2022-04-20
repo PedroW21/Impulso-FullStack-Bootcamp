@@ -13,6 +13,13 @@ public class WaterHero : Hero
 
     public string Attack(int Bonus)
     {
-        return this.Name = "Atacou com magia de Água com um bônus de: " + Bonus;
+        if (Bonus > 6)
+        {
+            return this.Name = "Realizou um ataque critico com magia de Água com um bônus de: " + Bonus;
+        }
+        else
+        {
+            return this.Name = "Realizou um ataque normal com magia de Água com um bônus de: " + Bonus;
+        }
     }
 }

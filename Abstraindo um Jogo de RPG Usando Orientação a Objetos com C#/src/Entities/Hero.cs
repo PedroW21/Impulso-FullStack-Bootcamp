@@ -1,4 +1,4 @@
-    public class Hero
+    public abstract class Hero
     {
         public string Name;
         public int Level;
@@ -14,7 +14,7 @@
         
         public Hero ()
         {
-            
+
         }
 
         public override string ToString()
