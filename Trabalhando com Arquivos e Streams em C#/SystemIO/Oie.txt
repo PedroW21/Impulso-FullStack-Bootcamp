@@ -1,0 +1,3 @@
+Oi! Fui escrito por um programa :D! Linha 1
+Oi! Fui escrito por um programa :X! Linha 2
+Oi! Fui escrito por um programa :P! Linha 3

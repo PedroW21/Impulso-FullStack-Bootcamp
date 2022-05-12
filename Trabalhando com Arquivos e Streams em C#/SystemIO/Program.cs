@@ -1,13 +1,36 @@
-﻿var path = Path.Combine(Environment.CurrentDirectory, "text.txt");
+﻿using static System.Console;
 
+WriteLine("Digite o nome do arquivo:");
 
-// caso eu colocasse o using antes do "var streamWriter...", o metodo contem uma interface que força a descarga da memoria, não necessitando do flush no codigo
-var streamWriter = File.CreateText(path);
+var nomeArquivo = ReadLine();
 
-streamWriter.WriteLine("Oi! Fui escrito por um programa :D! Linha 1");
-streamWriter.WriteLine("Oi! Fui escrito por um programa :X! Linha 2");
-streamWriter.WriteLine("Oi! Fui escrito por um programa :P! Linha 3");
+var path = Path.Combine(Environment.CurrentDirectory, $"{nomeArquivo}.txt");
 
-// O metodo não foi encerrado de maneira correta, precisando do metodo abaixo para que de fato escreva no .txt
+CriarArquivo(path);
 
-streamWriter.Flush(); // Realiza a descarga da memoria no arquivo (podendo ser por linha, por bloco de texto ou so no final da escrita do arquivo)
+static void CriarArquivo(string path)
+{
+    try
+    {
+        // caso eu colocasse o using antes do "var streamWriter...", o metodo contem uma interface que força a descarga da memoria, não necessitando do flush no codigo
+        var streamWriter = File.CreateText(path);
+
+        streamWriter.WriteLine("Oi! Fui escrito por um programa :D! Linha 1");
+        streamWriter.WriteLine("Oi! Fui escrito por um programa :X! Linha 2");
+        streamWriter.WriteLine("Oi! Fui escrito por um programa :P! Linha 3");
+
+        // O metodo não foi encerrado de maneira correta, precisando do metodo abaixo para que de fato escreva no .txt
+
+        streamWriter.Flush(); // Realiza a descarga da memoria no arquivo (podendo ser por linha, por bloco de texto ou so no final da escrita do arquivo)
+
+    }
+
+    catch
+    {
+        WriteLine("O nome do arquivo está inválido!");
+        WriteLine("Pressione ENTER para finalizar...");
+        ReadLine();
+    }
+
+}
+
