@@ -4,12 +4,7 @@ WriteLine("Digite o nome do arquivo:");
 
 var nomeArquivo = ReadLine();
 
-//Verificando se há caracteres especiais
-
-foreach(var @char in Path.GetInvalidFileNameChars()) { //usando palavra reservada como variavel no C# (use @)
-    nomeArquivo = nomeArquivo.Replace(@char, '-');
-};
-
+LimparNome(nomeArquivo);
 
 var path = Path.Combine(Environment.CurrentDirectory, $"{nomeArquivo}.txt");
 
@@ -41,3 +36,13 @@ static void CriarArquivo(string path)
 
 }
 
+static string LimparNome(string nomeArquivo)
+{
+    //Verificando se há caracteres especiais
+
+    foreach (var @char in Path.GetInvalidFileNameChars())
+    { //usando palavra reservada como variavel no C# (use @)
+        nomeArquivo = nomeArquivo.Replace(@char, '-');
+    };
+    return nomeArquivo;
+}
