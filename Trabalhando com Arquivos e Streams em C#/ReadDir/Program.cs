@@ -3,11 +3,29 @@
 var path = @"~\Área de Trabalho\DIO\Impulso-FullStack-Bootcamp\Trabalhando c
 om Arquivos e Streams em C#\Directory_And_DirectoryInfo\Terra";
 
-LerDir(path);
-
+//LerDir(path);
+LerArquivos(path);
 WriteLine("Pressione ENTER para finalizar...");
-
 ReadLine();
+
+static void LerArquivos(string path)
+{
+    var arquivos = Directory.GetFiles(path, "*", SearchOption.AllDirectories);
+
+    foreach (var arquivo in arquivos)
+    {
+        var fileInfo = new FileInfo(path);
+
+        WriteLine($"[Nome]: {fileInfo.Name}");
+        WriteLine($"[Tamanho]: {fileInfo.Length}");
+        WriteLine($"[Ultimo acesso]: {fileInfo.LastAccessTime}");
+        WriteLine($"[Pasta]: {fileInfo.DirectoryName}");
+
+        WriteLine("--------------------&--------------------");
+
+
+    }
+}
 
 static void LerDir(string path)
 {
@@ -27,13 +45,12 @@ static void LerDir(string path)
             WriteLine("--------------------&--------------------");
         }
     }
-    
+
     else
-    
+
     {
         WriteLine($"{path} não existe!!");
     }
-
 
 }
 
