@@ -1,23 +1,33 @@
 ﻿using static System.Console;
 
-var path = Path.Combine(Environment.CurrentDirectory, "Entrada","usuarios-exportacao.csv");
+var path = Path.Combine(Environment.CurrentDirectory, "Entrada", "usuarios-exportacao.csv");
 
-using var sr = new StreamReader(path);
+if (File.Exists(path))
+{
+    using var sr = new StreamReader(path);
 
-var cabecalho = sr.ReadLine()?.Split(","); // ? = se for nulo, ignore a proxima instrução
+    var cabecalho = sr.ReadLine()?.Split(","); // ? = se for nulo, ignore a proxima instrução
 
-while(true) {
-    var registro = sr.ReadLine()?.Split(",");
-
-    if(registro == null) break;
-
-    for (int i = 0; i < registro.Length; i++)
+    while (true)
     {
-        WriteLine($"{cabecalho?[i]}:{registro[i]}");        
+        var registro = sr.ReadLine()?.Split(",");
+
+        if (registro == null) break;
+
+        for (int i = 0; i < registro.Length; i++)
+        {
+            WriteLine($"{cabecalho?[i]}:{registro[i]}");
+        }
+
+        WriteLine("----------&----------");
     }
 
-    WriteLine("----------&----------");
+    WriteLine("\n\nPressione ENTER para sair...");
+    ReadLine();
+    
+} else {
+    WriteLine($"{path} não existe!! \n\nPressione enter para sair...");
+    ReadLine();
 }
 
-WriteLine("\n\nPressione ENTER para sair...");
-ReadLine();
+
