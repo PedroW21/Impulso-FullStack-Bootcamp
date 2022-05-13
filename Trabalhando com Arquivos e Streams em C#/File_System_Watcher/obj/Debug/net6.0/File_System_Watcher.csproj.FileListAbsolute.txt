@@ -1,0 +1,15 @@
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/File_System_Watcher/bin/Debug/net6.0/File_System_Watcher
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/File_System_Watcher/bin/Debug/net6.0/File_System_Watcher.deps.json
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/File_System_Watcher/bin/Debug/net6.0/File_System_Watcher.runtimeconfig.json
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/File_System_Watcher/bin/Debug/net6.0/File_System_Watcher.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/File_System_Watcher/bin/Debug/net6.0/File_System_Watcher.pdb
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/File_System_Watcher/obj/Debug/net6.0/File_System_Watcher.csproj.AssemblyReference.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/File_System_Watcher/obj/Debug/net6.0/File_System_Watcher.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/File_System_Watcher/obj/Debug/net6.0/File_System_Watcher.AssemblyInfoInputs.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/File_System_Watcher/obj/Debug/net6.0/File_System_Watcher.AssemblyInfo.cs
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/File_System_Watcher/obj/Debug/net6.0/File_System_Watcher.csproj.CoreCompileInputs.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/File_System_Watcher/obj/Debug/net6.0/File_System_Watcher.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/File_System_Watcher/obj/Debug/net6.0/refint/File_System_Watcher.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/File_System_Watcher/obj/Debug/net6.0/File_System_Watcher.pdb
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/File_System_Watcher/obj/Debug/net6.0/File_System_Watcher.genruntimeconfig.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/File_System_Watcher/obj/Debug/net6.0/ref/File_System_Watcher.dll
