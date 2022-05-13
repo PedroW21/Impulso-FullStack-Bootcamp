@@ -1,0 +1,15 @@
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/Stream_Writer_Reader/obj/Debug/net6.0/Stream_Writer_Reader.csproj.AssemblyReference.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/Stream_Writer_Reader/obj/Debug/net6.0/Stream_Writer_Reader.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/Stream_Writer_Reader/obj/Debug/net6.0/Stream_Writer_Reader.AssemblyInfoInputs.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/Stream_Writer_Reader/obj/Debug/net6.0/Stream_Writer_Reader.AssemblyInfo.cs
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/Stream_Writer_Reader/obj/Debug/net6.0/Stream_Writer_Reader.csproj.CoreCompileInputs.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/Stream_Writer_Reader/bin/Debug/net6.0/Stream_Writer_Reader
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/Stream_Writer_Reader/bin/Debug/net6.0/Stream_Writer_Reader.deps.json
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/Stream_Writer_Reader/bin/Debug/net6.0/Stream_Writer_Reader.runtimeconfig.json
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/Stream_Writer_Reader/bin/Debug/net6.0/Stream_Writer_Reader.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/Stream_Writer_Reader/bin/Debug/net6.0/Stream_Writer_Reader.pdb
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/Stream_Writer_Reader/obj/Debug/net6.0/Stream_Writer_Reader.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/Stream_Writer_Reader/obj/Debug/net6.0/refint/Stream_Writer_Reader.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/Stream_Writer_Reader/obj/Debug/net6.0/Stream_Writer_Reader.pdb
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/Stream_Writer_Reader/obj/Debug/net6.0/Stream_Writer_Reader.genruntimeconfig.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/Stream_Writer_Reader/obj/Debug/net6.0/ref/Stream_Writer_Reader.dll
