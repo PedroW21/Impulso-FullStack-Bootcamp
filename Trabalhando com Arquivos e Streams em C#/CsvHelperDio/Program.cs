@@ -7,22 +7,60 @@ using static System.Console;
 
 //LerCsvComClasse();
 
-LerCsvComOutroDelimitador();
+//LerCsvComOutroDelimitador();
+
+EscreverCsv();
 
 WriteLine("Pressione ENTER para sair...");
 ReadLine();
 
-static void LerCsvComOutroDelimitador() {
+static void EscreverCsv()
+{
+    var path = Path.Combine(Environment.CurrentDirectory, "Saida");
+
+    var di = new DirectoryInfo(path);
+
+    if (!di.Exists) di.Create();
+
+    path = Path.Combine(path, "users.csv");
+
+    var pessoas = new List<Pessoa>(){
+        new Pessoa() {
+            Nome = "Pedro",
+            Email = "pdo@pdo.com",
+            Telefone = 123456
+
+        },
+        new Pessoa() {
+            Nome = "Joao",
+            Email = "jao@jao.com",
+            Telefone = 654321
+
+        },new Pessoa() {
+            Nome = "Victor",
+            Email = "vcr@vcr",
+            Telefone = 341265
+
+        }
+    };
+
+    using var sw = new StreamWriter(path);
+    using var csvWriter = new CsvWriter(sw, CultureInfo.InvariantCulture);
+    csvWriter.WriteRecords(pessoas);
+}
+
+static void LerCsvComOutroDelimitador()
+{
 
     var path = Path.Combine(Environment.CurrentDirectory, "Entrada", "atelie-catalogo-produtos.csv");
 
     var fi = new FileInfo(path);
 
-    if (!fi.Exists) throw new FileNotFoundException($"O arquivo {path} não existe!!!"); 
+    if (!fi.Exists) throw new FileNotFoundException($"O arquivo {path} não existe!!!");
 
     using var sr = new StreamReader(fi.FullName);
 
-    var csvConfig = new CsvConfiguration(CultureInfo.InvariantCulture) 
+    var csvConfig = new CsvConfiguration(CultureInfo.InvariantCulture)
     {
         Delimiter = ";"
     };
@@ -39,7 +77,7 @@ static void LerCsvComOutroDelimitador() {
         WriteLine($"assunto: {registro.Assunto}");
         WriteLine($"valor: {registro.Valor}");
         WriteLine("---------&---------\n");
-    } 
+    }
 }
 
 static void LerCsvComClasse()
@@ -63,7 +101,6 @@ static void LerCsvComClasse()
         WriteLine("---------&---------\n");
     }
 }
-
 
 static void lerCsvDinamyc()
 {
