@@ -14,6 +14,11 @@ if (File.Exists(path))
 
         if (registro == null) break;
 
+        if(cabecalho.Length != registro.Length) {
+            WriteLine($"Arquivo fora do padrão!!");
+            break;
+        }
+
         for (int i = 0; i < registro.Length; i++)
         {
             WriteLine($"{cabecalho?[i]}:{registro[i]}");
@@ -24,7 +29,7 @@ if (File.Exists(path))
 
     WriteLine("\n\nPressione ENTER para sair...");
     ReadLine();
-    
+
 } else {
     WriteLine($"{path} não existe!! \n\nPressione enter para sair...");
     ReadLine();
