@@ -34,7 +34,7 @@ static void LerCsvComOutroDelimitador() {
     foreach (var registro in registros)
     {
         WriteLine($"titulo: {registro.Titulo}");
-        WriteLine($"isbn: {registro.ISBN}");
+        WriteLine($"isbn: {registro.Isbn}");
         WriteLine($"autor: {registro.Autor}");
         WriteLine($"assunto: {registro.Assunto}");
         WriteLine($"valor: {registro.Valor}");
