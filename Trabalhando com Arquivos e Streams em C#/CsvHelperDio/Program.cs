@@ -25,6 +25,7 @@ static void EscreverCsv()
     path = Path.Combine(path, "users.csv");
 
     var pessoas = new List<Pessoa>(){
+        
         new Pessoa() {
             Nome = "Pedro",
             Email = "pdo@pdo.com",
@@ -44,7 +45,13 @@ static void EscreverCsv()
         }
     };
 
+    // Para mudar o delimitador no csv
+    // var csvConfig = new CsvConfiguration(CultureInfo.InvariantCulture) { Delimiter = "|"};
+    // using var csvWriter = new CsvWriter(sw, csvConfig);
+     
+
     using var sw = new StreamWriter(path);
+
     using var csvWriter = new CsvWriter(sw, CultureInfo.InvariantCulture);
     csvWriter.WriteRecords(pessoas);
 }
