@@ -13,6 +13,13 @@ var buffer = new char[10];
 
 var tamanho = buffer.Length;
 
+do {
+    WriteLine(sr.ReadLine());
+} while (sr.Peek() >= 0); // consome o proximo caracter, e caso nao tenha retorna -1
+
+
+/*
+
 do
 {
     buffer = new char[10]; // zera o buffer para (limpa)
@@ -22,6 +29,7 @@ do
 
 } while (tamanho >= buffer.Length);
 
+*/
 WriteLine("Pressione ENTER para finalizar...");
 ReadLine();
 
