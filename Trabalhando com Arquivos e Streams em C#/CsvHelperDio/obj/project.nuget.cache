@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3k8WMQhvZ4dyXzvQOjXomXM2Dmgv0lEbpWQ3oCnykjrIsxWHfNIr9RAsYar4/NraNUVzxMxLfR1iSV43veWKWg==",
+  "success": true,
+  "projectFilePath": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelperDio/CsvHelperDio.csproj",
+  "expectedPackageFiles": [
+    "/home/pedro/.nuget/packages/csvhelper/27.2.1/csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

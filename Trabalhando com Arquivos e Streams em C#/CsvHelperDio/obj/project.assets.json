@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/CsvHelperDio.csproj",
+      "projectUniqueName": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelperDio/CsvHelperDio.csproj",
       "projectName": "CsvHelperDio",
-      "projectPath": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/CsvHelperDio.csproj",
+      "projectPath": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelperDio/CsvHelperDio.csproj",
       "packagesPath": "/home/pedro/.nuget/packages/",
-      "outputPath": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/obj/",
+      "outputPath": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelperDio/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pedro/.nuget/NuGet/NuGet.Config"
