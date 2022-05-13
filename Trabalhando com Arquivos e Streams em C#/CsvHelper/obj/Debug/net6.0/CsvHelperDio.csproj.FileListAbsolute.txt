@@ -1,0 +1,15 @@
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/obj/Debug/net6.0/CsvHelperDio.csproj.AssemblyReference.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/obj/Debug/net6.0/CsvHelperDio.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/obj/Debug/net6.0/CsvHelperDio.AssemblyInfoInputs.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/obj/Debug/net6.0/CsvHelperDio.AssemblyInfo.cs
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/obj/Debug/net6.0/CsvHelperDio.csproj.CoreCompileInputs.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/bin/Debug/net6.0/CsvHelperDio
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/bin/Debug/net6.0/CsvHelperDio.deps.json
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/bin/Debug/net6.0/CsvHelperDio.runtimeconfig.json
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/bin/Debug/net6.0/CsvHelperDio.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/bin/Debug/net6.0/CsvHelperDio.pdb
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/obj/Debug/net6.0/CsvHelperDio.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/obj/Debug/net6.0/refint/CsvHelperDio.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/obj/Debug/net6.0/CsvHelperDio.pdb
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/obj/Debug/net6.0/CsvHelperDio.genruntimeconfig.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Trabalhando com Arquivos e Streams em C#/CsvHelper/obj/Debug/net6.0/ref/CsvHelperDio.dll
