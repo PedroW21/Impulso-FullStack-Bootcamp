@@ -2,7 +2,7 @@ using CsvHelper.Configuration.Attributes;
 
 public class Livro
 {
-    [Name("titulo")]
+    [Name("titulo")] // caso o csv não tivesse cabeçalho, poderiamos utilizar o [Index(x)]
     public string Titulo { get; set; }
 
     [Name("isbn")]
