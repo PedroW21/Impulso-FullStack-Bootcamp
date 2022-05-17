@@ -6,6 +6,30 @@ Saída
 Imprima quantos tipos de jóias distintas Pedro Bento possui.
 */
 
+let jewels = []; 
+
+while(true) {
+    
+    let input = gets();
+    
+    if(!input) {
+        
+        break;
+    
+    }
+  
+    let find = jewels.find(el => el == input);
+  
+    if(!find) {
+        
+        jewels.push(input);
+  
+    }
+}
+
+console.log(jewels.length);
+
+/* COMO ESTAVA NA PLATAFORMA DA DIO
 const joias = [];
 const isUnique = [];
 let count = 0;
@@ -27,4 +51,4 @@ do {
 const result = isUnique.length    ;
 
 console.log(result);
-
+*/
