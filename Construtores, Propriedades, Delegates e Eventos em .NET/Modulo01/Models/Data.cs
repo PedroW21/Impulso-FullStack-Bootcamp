@@ -8,6 +8,7 @@ public class Data
         return this.mes;
     }
 
+    // Aqui é um metodo!!
     public void SetMes(int mes)
     {
         if (mes > 0 && mes <= 12)
@@ -18,7 +19,7 @@ public class Data
 
     }
     
-    // Outro meio de fazer o get e set
+    // Outro meio de fazer o get e set (aqui é propriedade!!!)
     public int Mes 
     { 
         get
