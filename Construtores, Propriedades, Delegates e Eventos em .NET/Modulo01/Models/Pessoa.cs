@@ -1,7 +1,7 @@
 public class Pessoa
 {
-    private string nome;
-    private string sobrenome;
+    private readonly string nome = "Pietro";
+    private readonly string sobrenome;
 
     // public Pessoa()
     // {
@@ -17,7 +17,7 @@ public class Pessoa
     }
 
     public void Mostrar()
-    {
+    { // Aqui por exemplo não seria possível mudar o campo readonly, somente na sua inicialização ou por meio de construtor
         Console.WriteLine($"Olá, meu nome é: {nome} {sobrenome}");
     }
 }

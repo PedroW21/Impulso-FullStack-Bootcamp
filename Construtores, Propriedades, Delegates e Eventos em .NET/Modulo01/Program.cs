@@ -1,5 +1,19 @@
 ﻿using static System.Console;
 
+
+
+
+static void ExemploModificadores()
+{   
+    //readonly esta na classe Pessoa
+    const double pi = 3.14;
+    WriteLine(pi);
+    // pi = 0; daria erro por ser const
+    // const double pi; daria erro pois precisa ter valor em sua inicialização
+}
+
+static void ExemploGetAndSet()
+{
 Data data = new Data();
 
 // Get e set feito por nos
@@ -10,6 +24,8 @@ Data data = new Data();
 
 data.Mes = 7;
 data.MostraMesValido();
+
+}
 
 static void ExemploConstrutores()
 {
