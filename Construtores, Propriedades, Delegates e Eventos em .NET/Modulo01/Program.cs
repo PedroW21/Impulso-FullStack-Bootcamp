@@ -1,15 +1,14 @@
 ﻿using static System.Console;
 
-Pessoa p2 = new Pessoa();
+Aluno aluno = new Aluno("Santo", "Andre", "Geografia");
 Pessoa p1 = new Pessoa("Pierre", "Danté");
 
 p1.Mostrar();
-p2.Mostrar();
 
-Log log = Log.GetInstance();
+//Log log = Log.GetInstance();
 
-log.PropriedadeLog = "Teste Instancia";
+//log.PropriedadeLog = "Teste Instancia";
 
-Log log2 = Log.GetInstance();
+//Log log2 = Log.GetInstance();
 
-WriteLine(log2.PropriedadeLog);
+//WriteLine(log2.PropriedadeLog);
