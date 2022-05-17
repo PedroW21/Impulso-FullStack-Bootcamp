@@ -1,14 +1,22 @@
 ﻿using static System.Console;
 
-Aluno aluno = new Aluno("Santo", "Andre", "Geografia");
-Pessoa p1 = new Pessoa("Pierre", "Danté");
+Data data = new Data();
 
-p1.Mostrar();
+data.SetMes(20);
+data.MostraMesValido();
 
-//Log log = Log.GetInstance();
+static void ExemploConstrutores()
+{
+    Aluno aluno = new Aluno("Santo", "Andre", "Geografia");
+    Pessoa p1 = new Pessoa("Pierre", "Danté");
 
-//log.PropriedadeLog = "Teste Instancia";
+    p1.Mostrar();
 
-//Log log2 = Log.GetInstance();
+    //Log log = Log.GetInstance();
 
-//WriteLine(log2.PropriedadeLog);
+    //log.PropriedadeLog = "Teste Instancia";
+
+    //Log log2 = Log.GetInstance();
+
+    //WriteLine(log2.PropriedadeLog);
+}
