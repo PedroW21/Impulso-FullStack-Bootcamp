@@ -2,7 +2,13 @@
 
 Data data = new Data();
 
-data.SetMes(20);
+// Get e set feito por nos
+//data.SetMes(20);
+//data.MostraMesValido();
+
+// Get and Set - outro meio
+
+data.Mes = 7;
 data.MostraMesValido();
 
 static void ExemploConstrutores()

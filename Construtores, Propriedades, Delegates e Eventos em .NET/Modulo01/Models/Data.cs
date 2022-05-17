@@ -17,6 +17,23 @@ public class Data
         }
 
     }
+    
+    // Outro meio de fazer o get e set
+    public int Mes 
+    { 
+        get
+        {
+            return this.mes;
+        } 
+        set
+        {
+            if(value > 0 && value <= 12)
+            {
+                this.mes = value;
+                this.mesValido = true;
+            }
+        } 
+    }
 
     public void MostraMesValido()
     {
