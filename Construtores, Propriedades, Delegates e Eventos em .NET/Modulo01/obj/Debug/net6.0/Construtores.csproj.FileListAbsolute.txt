@@ -1,0 +1,15 @@
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Construtores, Propriedades, Delegates e Eventos em .NET/Modulo01/bin/Debug/net6.0/Construtores
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Construtores, Propriedades, Delegates e Eventos em .NET/Modulo01/bin/Debug/net6.0/Construtores.deps.json
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Construtores, Propriedades, Delegates e Eventos em .NET/Modulo01/bin/Debug/net6.0/Construtores.runtimeconfig.json
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Construtores, Propriedades, Delegates e Eventos em .NET/Modulo01/bin/Debug/net6.0/Construtores.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Construtores, Propriedades, Delegates e Eventos em .NET/Modulo01/bin/Debug/net6.0/Construtores.pdb
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Construtores, Propriedades, Delegates e Eventos em .NET/Modulo01/obj/Debug/net6.0/Construtores.csproj.AssemblyReference.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Construtores, Propriedades, Delegates e Eventos em .NET/Modulo01/obj/Debug/net6.0/Construtores.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Construtores, Propriedades, Delegates e Eventos em .NET/Modulo01/obj/Debug/net6.0/Construtores.AssemblyInfoInputs.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Construtores, Propriedades, Delegates e Eventos em .NET/Modulo01/obj/Debug/net6.0/Construtores.AssemblyInfo.cs
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Construtores, Propriedades, Delegates e Eventos em .NET/Modulo01/obj/Debug/net6.0/Construtores.csproj.CoreCompileInputs.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Construtores, Propriedades, Delegates e Eventos em .NET/Modulo01/obj/Debug/net6.0/Construtores.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Construtores, Propriedades, Delegates e Eventos em .NET/Modulo01/obj/Debug/net6.0/refint/Construtores.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Construtores, Propriedades, Delegates e Eventos em .NET/Modulo01/obj/Debug/net6.0/Construtores.pdb
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Construtores, Propriedades, Delegates e Eventos em .NET/Modulo01/obj/Debug/net6.0/Construtores.genruntimeconfig.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Construtores, Propriedades, Delegates e Eventos em .NET/Modulo01/obj/Debug/net6.0/ref/Construtores.dll
