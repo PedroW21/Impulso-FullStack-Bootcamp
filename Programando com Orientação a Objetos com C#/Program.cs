@@ -1,7 +1,16 @@
 ﻿using static System.Console;
 
+Aluno aluno = new Aluno();
 
+aluno.Nome = "Jubiscreia"; //herdou
+aluno.Idade = 24; //herdou
+aluno.Nota = 8.9; // So de aluno
 
+Professor prof = new Professor();
+
+prof.Nome = "Jubileu"; //herdou
+prof.Idade = 41; //herdou
+prof.Salario = 3860; // so de prof
 
 static void ExemploEncapsulamento()
 { // Propriedades inacessiveis (privadas), sendo "alterável" por meio de get e set e se forem válidos
