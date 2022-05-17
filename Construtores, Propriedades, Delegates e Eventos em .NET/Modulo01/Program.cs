@@ -6,7 +6,13 @@ class Program
 
     static void Main(string[] args)
     {
-        
+
+        static void ExemploEventos()
+        {
+            Matematica m = new Matematica(10, 20);
+
+            m.Somar();
+        }
 
         static void ExemploDelegates()
         {
