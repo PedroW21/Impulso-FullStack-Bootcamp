@@ -4,7 +4,7 @@ public class Pessoa
 
     public int Idade { get; set; }
 
-    public void Mostrar()
+    public virtual void Mostrar()
     {
         Console.WriteLine($"Olá {Nome}!! Você tem {Idade} anos?");
     }

@@ -1,16 +1,52 @@
 ﻿using static System.Console;
 
-Aluno aluno = new Aluno();
 
-aluno.Nome = "Jubiscreia"; //herdou
-aluno.Idade = 24; //herdou
-aluno.Nota = 8.9; // So de aluno
 
-Professor prof = new Professor();
+static void PolimorfismoEarlyBiding()
+{
+    Calculadora calc = new Calculadora();
 
-prof.Nome = "Jubileu"; //herdou
-prof.Idade = 41; //herdou
-prof.Salario = 3860; // so de prof
+    WriteLine("Resultado 1ª primeira soma: " + calc.Somar(1, 4)); // há um metodo em sobrecarga
+    WriteLine("Resultado da 2ª soma: " + calc.Somar(1, 4, 9));
+
+}
+
+static void ExemploPolimorfismoSobrescrito()
+{
+
+    Aluno student = new Aluno();
+
+    student.Nome = "Baby Boo";
+    student.Idade = 25;
+    student.Nota = 1000;
+
+    student.Mostrar(); // metodo sobrescrito (via herança) - polimorfismo em tempo de exec
+
+    Professor prof = new Professor();
+
+    prof.Nome = "Jubilei";
+    prof.Idade = 38;
+    prof.Salario = 780;
+
+    prof.Mostrar(); // metodo sobrescrito (via herança) - polimorfismo em tempo de exec
+
+}
+
+static void ExemploHerança()
+{
+    Aluno aluno = new Aluno();
+
+    aluno.Nome = "Jubiscreia"; //herdou
+    aluno.Idade = 24; //herdou
+    aluno.Nota = 8.9; // So de aluno
+
+    Professor prof = new Professor();
+
+    prof.Nome = "Jubileu"; //herdou
+    prof.Idade = 41; //herdou
+    prof.Salario = 3860; // so de prof
+
+}
 
 static void ExemploEncapsulamento()
 { // Propriedades inacessiveis (privadas), sendo "alterável" por meio de get e set e se forem válidos
