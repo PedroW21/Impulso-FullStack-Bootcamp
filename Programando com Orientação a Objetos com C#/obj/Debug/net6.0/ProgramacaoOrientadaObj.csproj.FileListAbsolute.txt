@@ -1,0 +1,15 @@
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Programando com Orientação a Objetos com C#/bin/Debug/net6.0/ProgramacaoOrientadaObj
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Programando com Orientação a Objetos com C#/bin/Debug/net6.0/ProgramacaoOrientadaObj.deps.json
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Programando com Orientação a Objetos com C#/bin/Debug/net6.0/ProgramacaoOrientadaObj.runtimeconfig.json
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Programando com Orientação a Objetos com C#/bin/Debug/net6.0/ProgramacaoOrientadaObj.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Programando com Orientação a Objetos com C#/bin/Debug/net6.0/ProgramacaoOrientadaObj.pdb
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Programando com Orientação a Objetos com C#/obj/Debug/net6.0/ProgramacaoOrientadaObj.csproj.AssemblyReference.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Programando com Orientação a Objetos com C#/obj/Debug/net6.0/ProgramacaoOrientadaObj.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Programando com Orientação a Objetos com C#/obj/Debug/net6.0/ProgramacaoOrientadaObj.AssemblyInfoInputs.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Programando com Orientação a Objetos com C#/obj/Debug/net6.0/ProgramacaoOrientadaObj.AssemblyInfo.cs
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Programando com Orientação a Objetos com C#/obj/Debug/net6.0/ProgramacaoOrientadaObj.csproj.CoreCompileInputs.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Programando com Orientação a Objetos com C#/obj/Debug/net6.0/ProgramacaoOrientadaObj.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Programando com Orientação a Objetos com C#/obj/Debug/net6.0/refint/ProgramacaoOrientadaObj.dll
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Programando com Orientação a Objetos com C#/obj/Debug/net6.0/ProgramacaoOrientadaObj.pdb
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Programando com Orientação a Objetos com C#/obj/Debug/net6.0/ProgramacaoOrientadaObj.genruntimeconfig.cache
+/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Programando com Orientação a Objetos com C#/obj/Debug/net6.0/ref/ProgramacaoOrientadaObj.dll
