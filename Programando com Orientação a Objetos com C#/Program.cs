@@ -1,7 +1,10 @@
 ﻿using static System.Console;
 
-
-
+static void ClasseSystemObject()
+{
+    Computador comp = new Computador();
+    WriteLine(comp.ToString()); // metodo herdado da classe Object
+}
 
 static void ExemploMetodoAbstrato()
 {
