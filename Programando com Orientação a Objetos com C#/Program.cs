@@ -1,5 +1,13 @@
 ﻿using static System.Console;
 
+ICalculadora calc = new Calculadora(); // ICalculadora não pode ser instanciado por ser uma Interface
+
+WriteLine(calc.Somar(10,20));
+WriteLine(calc.Subtrair(10,20));
+WriteLine(calc.Dividir(20,10));
+WriteLine(calc.Multiplicar(10,20));
+
+
 static void ClasseSystemObject()
 {
     Computador comp = new Computador();
