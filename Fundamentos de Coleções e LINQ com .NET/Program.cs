@@ -1,7 +1,21 @@
 ﻿using static System.Console;
 
+OrdenandoComBubbleSort();
 
+static void OrdenandoComBubbleSort()
+{
+    OperacoesArray op = new OperacoesArray();
+    
+    int[] arr = new int[5]{3,8,9,1,23};
 
+    WriteLine("Array Original: \n");
+    op.ImprimirArray(arr);
+
+    WriteLine("\nArray ordenado: \n");
+    op.OrdernarBubbleSort(ref arr);
+    op.ImprimirArray(arr);
+
+}
 
 static void ArrayMatriz()
 {
