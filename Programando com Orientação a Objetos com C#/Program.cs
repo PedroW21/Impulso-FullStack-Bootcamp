@@ -1,9 +1,15 @@
 ﻿using static System.Console;
 
-Corrente c = new Corrente();
 
-c.Creditar(100);
-c.ExibirSaldo();
+
+
+static void ExemploMetodoAbstrato()
+{
+    Corrente c = new Corrente();
+
+    c.Creditar(100);
+    c.ExibirSaldo();
+}
 
 static void PolimorfismoEarlyBiding()
 {
