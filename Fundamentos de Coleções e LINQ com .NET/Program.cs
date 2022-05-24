@@ -1,6 +1,35 @@
 ﻿using static System.Console;
 
-ConvertendoTipoArray();
+ListaColecoesGeneric();
+
+static void ListaColecoesGeneric()
+{
+    // São "arrays de alto nivel", deixando mais dinamico (no tamanho, na sua manipulação e etc...)
+    OperacoesLista opLista = new OperacoesLista();
+
+    List<string> estados = new List<string>(); // poderia começar inicializado, basta colocar {"elements"};
+    string[] estadosArray = new string[2] {"MG", "PR"};
+
+    estados.Add("DF");
+    estados.Add("GO");
+    estados.Add("TO");
+
+    WriteLine("Elementos originais da lista:");
+    opLista.ImprimirLista(estados);
+
+    estados.AddRange(estadosArray); // adiciona os elementos no final da coleção
+
+    estados.Insert(3,"BA"); // inserir em um indice especifico
+
+    WriteLine("\nElementos com a inclusão de outra lista nessa:");
+    opLista.ImprimirLista(estados);
+
+    // Removendo elementos de uma lista
+
+    WriteLine("\nRemovendo o elemento...");
+    estados.Remove("TO");
+    opLista.ImprimirLista(estados);
+}
 
 static void ConvertendoTipoArray()
 {
