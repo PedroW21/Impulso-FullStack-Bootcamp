@@ -1,6 +1,61 @@
 ﻿using static System.Console;
 
-Pilhas();
+Dicionario();
+
+static void Dicionario()
+{
+    Dictionary<string, string> estados = new Dictionary<string, string>();
+
+    estados.Add("DF", "Brasília");
+    estados.Add("GO", "Goiânia");
+    estados.Add("MG", "Belo Horizonte");
+    estados.Add("TO", "Palmas");
+
+    foreach (KeyValuePair<string, string> item in estados)
+    {
+        WriteLine($"Chave: {item.Key} | Valor: {item.Value}");    
+    }
+
+    // Acessando um valor diretamente
+
+    string valorProcurado = "MG";
+
+    WriteLine($"\nValor encontrado! Contéudo da chave: {estados[valorProcurado]}");
+
+    // Atualizando um valor
+
+    estados.Add("PR","Curutuba");
+
+    valorProcurado = "PR";
+    WriteLine($"\nValor original: {estados[valorProcurado]}");
+
+    estados["PR"] = "**Curitiba**";
+    WriteLine($"Valor modificado: {estados[valorProcurado]}");
+
+    // Removendo um valor de um Dicionário
+
+    WriteLine("\nRemovendo o valor...");
+
+    valorProcurado = "TO";
+    estados.Remove(valorProcurado);
+    
+    foreach (KeyValuePair<string, string> item in estados)
+    {
+        WriteLine($"Chave: {item.Key} | Valor: {item.Value}");    
+    }
+
+    // var explodeCompilador = estados["PE"];
+
+    valorProcurado = "PE";
+    if(estados.TryGetValue(valorProcurado, out string estadoEncontrado))
+    {
+        WriteLine($"\n{estadoEncontrado}");
+    }
+    else
+    {
+        WriteLine($"\nChave {estadoEncontrado} não encontrada no Dicionário!!!");
+    }
+}
 
 static void Pilhas()
 {
@@ -27,11 +82,11 @@ static void Filas()
     Queue<string> fila = new Queue<string>();
 
     fila.Enqueue("Hellena");
-    fila.Enqueue("Bruno");                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-    fila.Enqueue("Guss");                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+    fila.Enqueue("Bruno");
+    fila.Enqueue("Guss");
 
     WriteLine($"Itens na fila: {fila.Count}");
-    while(fila.Count > 0)
+    while (fila.Count > 0)
     {
         WriteLine($"Vez de: {fila.Peek()}");
         WriteLine($"{fila.Dequeue()} atendido");
@@ -47,7 +102,7 @@ static void ListaColecoesGeneric()
     OperacoesLista opLista = new OperacoesLista();
 
     List<string> estados = new List<string>(); // poderia começar inicializado, basta colocar {"elements"};
-    string[] estadosArray = new string[2] {"MG", "PR"};
+    string[] estadosArray = new string[2] { "MG", "PR" };
 
     estados.Add("DF");
     estados.Add("GO");
@@ -58,7 +113,7 @@ static void ListaColecoesGeneric()
 
     estados.AddRange(estadosArray); // adiciona os elementos no final da coleção
 
-    estados.Insert(3,"BA"); // inserir em um indice especifico
+    estados.Insert(3, "BA"); // inserir em um indice especifico
 
     WriteLine("\nElementos com a inclusão de outra lista nessa:");
     opLista.ImprimirLista(estados);
@@ -87,10 +142,10 @@ static void RedimensionaArray()
     int[] arr = new int[5] { 3, 8, 9, 1, 23 };
 
     //int valor = 10;
-    
+
     WriteLine($"Capacidade atual do array: {arr.Length}");
 
-    op.RedimensionarArray(ref arr, arr.Length*2);
+    op.RedimensionarArray(ref arr, arr.Length * 2);
 
     WriteLine($"Capacidade modificada do array: {arr.Length}");
 
