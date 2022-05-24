@@ -1,6 +1,45 @@
 ﻿using static System.Console;
 
-ListaColecoesGeneric();
+Pilhas();
+
+static void Pilhas()
+{
+    Stack<string> pilhaLivros = new Stack<string>();
+
+    pilhaLivros.Push(".NET");
+    pilhaLivros.Push("TDD");
+    pilhaLivros.Push("DDD");
+    pilhaLivros.Push("Código Limpo");
+
+    WriteLine($"Livros para a leitura: {pilhaLivros.Count}");
+    while (pilhaLivros.Count > 0)
+    {
+        WriteLine($"Próximo livro para a leitura: {pilhaLivros.Peek()}");
+        WriteLine($"{pilhaLivros.Pop()} lido com sucesso");
+
+    }
+
+    WriteLine($"Livros para a leitura: {pilhaLivros.Count}");
+}
+
+static void Filas()
+{
+    Queue<string> fila = new Queue<string>();
+
+    fila.Enqueue("Hellena");
+    fila.Enqueue("Bruno");                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+    fila.Enqueue("Guss");                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+
+    WriteLine($"Itens na fila: {fila.Count}");
+    while(fila.Count > 0)
+    {
+        WriteLine($"Vez de: {fila.Peek()}");
+        WriteLine($"{fila.Dequeue()} atendido");
+    }
+
+    WriteLine($"Itens na fila: {fila.Count}");
+
+}
 
 static void ListaColecoesGeneric()
 {
