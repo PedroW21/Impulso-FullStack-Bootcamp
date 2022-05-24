@@ -1,6 +1,37 @@
 ﻿using static System.Console;
 
-Dicionario();
+UtilizandoLINQ();
+
+static void UtilizandoLINQ()
+{
+    int[] arrayNum = new int[10] { 1, 22, 3, 41, 2, 7, 19, 15, 22, 3};
+
+    var numerosPares =
+        from numero in arrayNum
+        where numero % 2 == 0
+        orderby numero
+        select numero;
+    
+    // Fazendo a query acima por um metodo
+    var numerosParesMetodo = arrayNum.Where(x => x % 2 == 0).OrderBy(x => x).ToList();
+
+    WriteLine("Numeros pares query: " + string.Join(",", numerosPares));
+    WriteLine("Numeros pares metodo: " + string.Join(",", numerosParesMetodo));
+
+    WriteLine("\n--------------- OBTENDO VALORES: MAX, MIN e MED ---------------");
+
+    var minimo = arrayNum.Min();
+    var maximo = arrayNum.Max();
+    var media = arrayNum.Average();
+    var somaElementos =  arrayNum.Sum();
+    var arrayUnico = arrayNum.Distinct().ToArray(); // remove os elementos repetidos?
+
+    WriteLine($"Minimo: {minimo} | Maximo: {maximo} | Medio: {media} | Soma dos Elementos: {somaElementos}");
+    WriteLine($"Array original: {string.Join(", ", arrayNum)}");
+    WriteLine($"Array distinto: {string.Join(", ", arrayUnico)}");
+
+
+}
 
 static void Dicionario()
 {
