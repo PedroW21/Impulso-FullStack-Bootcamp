@@ -1,8 +1,12 @@
 import React from 'react';
+import { ThemeContext, themes } from './Theme';
+import Card from './Card';
 
 function App() {
        return (
-           <div>OIe</div>
+           <ThemeContext.Provider values={themes.primary}>App
+           <Card />
+           </ThemeContext.Provider>
        )
 }
 
