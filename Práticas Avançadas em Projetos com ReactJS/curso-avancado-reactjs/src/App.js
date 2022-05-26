@@ -1,9 +1,9 @@
 import React from 'react';
 
-function Example() {
+function App() {
        return (
            <div>OIe</div>
        )
 }
 
-export default Example;
+export default App;
