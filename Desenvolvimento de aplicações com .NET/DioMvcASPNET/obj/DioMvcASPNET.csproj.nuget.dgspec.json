@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Desenvolvimento de aplicações com .NET/DioMvcASPNET/DioMvcASPNET.csproj": {}
+    "C:\\Users\\Pedro Verner\\Desktop\\DIO\\Impulso-FullStack-Bootcamp\\Desenvolvimento de aplicações com .NET\\DioMvcASPNET\\DioMvcASPNET.csproj": {}
   },
   "projects": {
-    "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Desenvolvimento de aplicações com .NET/DioMvcASPNET/DioMvcASPNET.csproj": {
+    "C:\\Users\\Pedro Verner\\Desktop\\DIO\\Impulso-FullStack-Bootcamp\\Desenvolvimento de aplicações com .NET\\DioMvcASPNET\\DioMvcASPNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Desenvolvimento de aplicações com .NET/DioMvcASPNET/DioMvcASPNET.csproj",
+        "projectUniqueName": "C:\\Users\\Pedro Verner\\Desktop\\DIO\\Impulso-FullStack-Bootcamp\\Desenvolvimento de aplicações com .NET\\DioMvcASPNET\\DioMvcASPNET.csproj",
         "projectName": "DioMvcASPNET",
-        "projectPath": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Desenvolvimento de aplicações com .NET/DioMvcASPNET/DioMvcASPNET.csproj",
-        "packagesPath": "/home/pedro/.nuget/packages/",
-        "outputPath": "/home/pedro/Área de Trabalho/DIO/Impulso-FullStack-Bootcamp/Desenvolvimento de aplicações com .NET/DioMvcASPNET/obj/",
+        "projectPath": "C:\\Users\\Pedro Verner\\Desktop\\DIO\\Impulso-FullStack-Bootcamp\\Desenvolvimento de aplicações com .NET\\DioMvcASPNET\\DioMvcASPNET.csproj",
+        "packagesPath": "C:\\Users\\Pedro Verner\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pedro Verner\\Desktop\\DIO\\Impulso-FullStack-Bootcamp\\Desenvolvimento de aplicações com .NET\\DioMvcASPNET\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/pedro/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Pedro Verner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -71,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
