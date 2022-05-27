@@ -1,0 +1,15 @@
+C:\Users\Pedro Verner\Desktop\DIO\Impulso-FullStack-Bootcamp\Criando um App Simples de Cadastro de Series em .NET\Dio.Animes\bin\Debug\net6.0\Dio.Animes.exe
+C:\Users\Pedro Verner\Desktop\DIO\Impulso-FullStack-Bootcamp\Criando um App Simples de Cadastro de Series em .NET\Dio.Animes\bin\Debug\net6.0\Dio.Animes.deps.json
+C:\Users\Pedro Verner\Desktop\DIO\Impulso-FullStack-Bootcamp\Criando um App Simples de Cadastro de Series em .NET\Dio.Animes\bin\Debug\net6.0\Dio.Animes.runtimeconfig.json
+C:\Users\Pedro Verner\Desktop\DIO\Impulso-FullStack-Bootcamp\Criando um App Simples de Cadastro de Series em .NET\Dio.Animes\bin\Debug\net6.0\Dio.Animes.dll
+C:\Users\Pedro Verner\Desktop\DIO\Impulso-FullStack-Bootcamp\Criando um App Simples de Cadastro de Series em .NET\Dio.Animes\bin\Debug\net6.0\Dio.Animes.pdb
+C:\Users\Pedro Verner\Desktop\DIO\Impulso-FullStack-Bootcamp\Criando um App Simples de Cadastro de Series em .NET\Dio.Animes\obj\Debug\net6.0\Dio.Animes.csproj.AssemblyReference.cache
+C:\Users\Pedro Verner\Desktop\DIO\Impulso-FullStack-Bootcamp\Criando um App Simples de Cadastro de Series em .NET\Dio.Animes\obj\Debug\net6.0\Dio.Animes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Verner\Desktop\DIO\Impulso-FullStack-Bootcamp\Criando um App Simples de Cadastro de Series em .NET\Dio.Animes\obj\Debug\net6.0\Dio.Animes.AssemblyInfoInputs.cache
+C:\Users\Pedro Verner\Desktop\DIO\Impulso-FullStack-Bootcamp\Criando um App Simples de Cadastro de Series em .NET\Dio.Animes\obj\Debug\net6.0\Dio.Animes.AssemblyInfo.cs
+C:\Users\Pedro Verner\Desktop\DIO\Impulso-FullStack-Bootcamp\Criando um App Simples de Cadastro de Series em .NET\Dio.Animes\obj\Debug\net6.0\Dio.Animes.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Verner\Desktop\DIO\Impulso-FullStack-Bootcamp\Criando um App Simples de Cadastro de Series em .NET\Dio.Animes\obj\Debug\net6.0\Dio.Animes.dll
+C:\Users\Pedro Verner\Desktop\DIO\Impulso-FullStack-Bootcamp\Criando um App Simples de Cadastro de Series em .NET\Dio.Animes\obj\Debug\net6.0\refint\Dio.Animes.dll
+C:\Users\Pedro Verner\Desktop\DIO\Impulso-FullStack-Bootcamp\Criando um App Simples de Cadastro de Series em .NET\Dio.Animes\obj\Debug\net6.0\Dio.Animes.pdb
+C:\Users\Pedro Verner\Desktop\DIO\Impulso-FullStack-Bootcamp\Criando um App Simples de Cadastro de Series em .NET\Dio.Animes\obj\Debug\net6.0\Dio.Animes.genruntimeconfig.cache
+C:\Users\Pedro Verner\Desktop\DIO\Impulso-FullStack-Bootcamp\Criando um App Simples de Cadastro de Series em .NET\Dio.Animes\obj\Debug\net6.0\ref\Dio.Animes.dll
