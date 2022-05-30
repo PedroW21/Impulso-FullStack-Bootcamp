@@ -1,11 +1,15 @@
 import React from 'react'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import "./IfoodCounter.css"
 
 export default function IfoodCounter() {
 
     const [value, setValue] = useState(1);
     const [buttonStyle, setButtonStyle] = useState("counter-button-minus-active");
+
+    useEffect(()=>{
+        document.getElementById("coin").innerHTML = 2.00 * value;
+    },[value]); // [] - o que ele "vigiaria" // vazio executra quando o componente fosse montado
 
     function down()
     {
@@ -38,6 +42,8 @@ export default function IfoodCounter() {
         >
             +
         </button>
+
+        <button id="coin">0</button>
     </div>
   
     )
